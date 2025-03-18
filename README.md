@@ -1,4 +1,4 @@
-Meet-UP App is developed using React JS.Users can create, view and add Favorites based on interests. Integrating modern React libraries for state management, routing, and API handling.
+Meet-UP App is developed using React JS.Users can create Meet up, view Meet up and add Favorites based on interests. Integrating modern React libraries for state management, routing, and API handling.
 
 
 
