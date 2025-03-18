@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+Meet-UP App is developed using React JS.Users can create, view and add Favorites based on interests. Integrating modern React libraries for state management, routing, and API handling.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
